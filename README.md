@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devDoubleH
+- 👀 I’m interested in Math
+- 🌱 I’m currently learning JavaScript and Python
+- 📫 How to reach me dev.ismoiljon@gmail.com
